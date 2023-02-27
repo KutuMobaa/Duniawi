@@ -15,7 +15,7 @@
 #
 _chmod +x *_
 #
-*./ah.sh
+*./ah.sh*
 #
 #
 # Silahkan Bersenang Senang Dengan Tangan Anda Ketika Anda Jomblo
